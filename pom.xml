@@ -8,11 +8,11 @@
 		<version>2.5.7</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>demo</artifactId>
+	<groupId>com.dev.diegopereira</groupId>
+	<artifactId>playtika-feign-reactive</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
-	<description>Demo project for Spring Boot</description>
+	<name>playtika-feign-reactive</name>
+	<description>Demo project for Spring Boot with Feign Reactive</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
